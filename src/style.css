@@ -1,0 +1,157 @@
+.logo__img {
+    padding: 10px;
+}
+
+.img-wrap {
+    position: relative;
+}
+
+.img-wrap p {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.box {
+    padding-top: 30px;
+    padding-right: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box__logo {
+    padding: 10px;
+}
+
+.box__btn {
+    width: 270px;
+    height: 84px;
+    background: #5222D0;
+    border-radius: 100px;
+    color: white;
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+}
+
+.main {
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.main__content {
+    padding: 100px;
+}
+
+.main__item_left {
+    padding-top: 100px;
+    min-height: 60vh;
+}
+
+.item__left_h1 {
+    width: 542px;
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 120%;
+    color: #000000;
+}
+
+.card__font {
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 120%;
+}
+
+.cardtext_font {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    color: grey;
+    
+}
+
+.card__font_white {
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 120%;
+    color: white;
+}
+
+.item__left_h2 {
+    width: 487px;
+}
+
+.item__left_h2 {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 23px;
+    line-height: 160%;
+    color: grey;
+}
+
+.main__item_right {
+    min-height: 70vh;
+    background-image: url("/src/images/background.png");
+}
+
+.item__right_position {
+    min-height: 50vh;
+}
+
+.main__row1 {
+    min-height: 50vh;
+    padding-left: 20px;
+}
+
+
+.form {
+    background-color: rgb(236, 91, 91);
+}
+
+.box__btn_form {
+    width: 170px;
+    height: 54px;
+    background: #5222D0;
+    border-radius: 100px;
+    color: white;
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 35px;
+}
+
+.footer {
+    padding-left: 50px;
+}
+
+.footer_font {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 160%;
+    color: #5222D0;
+}
+
+.footer_about {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 160%;
+    color: grey;
+
+}
